@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/taskList"
+        android:icon="@drawable/lnearborder"
+        android:title="See tasks" />
+    <item android:id="@+id/menuAdd"
+        android:icon="@drawable/lnearborder"
+        android:title="Add task" />
+    <item android:id="@+id/deleted"
+        android:icon="@drawable/lnearborder"
+        android:title="See deleted tasks"/>
+    <item android:id="@+id/menuExit"
+        android:icon="@drawable/lnearborder"
+        android:title="Exit"/>
+</menu>
